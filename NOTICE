@@ -1,0 +1,10 @@
+IX-Bayanihan-HydroGrid
+Copyright 2026 Bryce Lovell
+
+Licensed under the Apache License, Version 2.0.
+
+IX-Bayanihan-HydroGrid is a public reference architecture and proof-of-concept planning package for modular flood-resilience lots, future building-scale upgrade paths, flood sensing, pump support, backup power, debris-aware maintenance, event logging, and public-works handoff planning.
+
+This repository is not a certified flood-control product, not a construction-ready design, not a substitute for licensed civil, electrical, hydraulic, environmental, or safety engineering, and not a guarantee of flood protection or life safety.
+
+Any real-world deployment requires qualified engineering review, local hydraulic analysis, permitting, discharge-path approval, electrical safety review, public-works integration, environmental review, maintenance ownership, and site-specific validation before installation or operation.
